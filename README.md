@@ -5,7 +5,7 @@
 
 Датасет размечался с помощью сервиса Roboflow
 
-![image](https://user-images.githubusercontent.com/64641338/203955392-618d8192-183a-468b-bd75-a15f9b29362a.png)
+
 
 
 
